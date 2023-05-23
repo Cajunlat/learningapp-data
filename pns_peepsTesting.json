@@ -1,22 +1,26 @@
-[{
-  "state":113,
-  "members":[
-    {
-      "name":"T1mmy"
-    },
-    {
-      "name":"AresMyDog"
-    },
-    {
-      "name":"Billygoat7"
-    },
-    { 
-      "name":"《☆Nexus☆》"
-    },
-    { 
-      "name":"꧁MiniLouise-Marie꧂"
-    },
-    {
-      "name":"Freddy"
-    }]
-}]
+[
+  {
+    "state":113
+    "name":"T1mmy"
+  },
+  {
+    "state":113
+    "name":"AresMyDog"
+  },
+  {
+    "state":113
+    "name":"Billygoat7"
+  },
+  { 
+    "state":113
+    "name":"《☆Nexus☆》"
+  },
+  { 
+    "state":113
+    "name":"꧁MiniLouise-Marie꧂"
+  },
+  {
+    "state":113
+    "name":"Freddy"
+  }
+]
